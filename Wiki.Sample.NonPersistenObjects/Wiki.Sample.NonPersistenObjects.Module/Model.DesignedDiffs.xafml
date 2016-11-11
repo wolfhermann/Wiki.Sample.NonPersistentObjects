@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" ?>
+<Application Title="Wiki.Sample.NonPersistenObjects" Logo="ExpressAppLogo">
+  <Views>
+  </Views>
+</Application>
